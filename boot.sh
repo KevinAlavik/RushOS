@@ -1,0 +1,1 @@
+sudo qemu-system-x86_64 -drive format=raw,file=./target/x86_64-rushos/debug/bootimage-rush-os.bin
